@@ -1,0 +1,2 @@
+# Tit-for-Tat-Strategy
+Tit for tat posits that a person is more successful if they cooperate with another person. Implementing a tit-for-tat strategy occurs when one agent cooperates with another agent in the very first interaction and then mimics their subsequent moves. This strategy is based on the concepts of retaliation and altruism. When faced with a dilemma, an individual cooperates when another member has an immediate history of cooperating and defaults when the counterparty previously defaulted.
